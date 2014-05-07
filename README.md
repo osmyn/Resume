@@ -1,6 +1,3 @@
-resume
-======
-
 # Summary
 
 Senior software developer with 14 years of experience who enjoys being part of a team with an agile process. Enjoy helping with sales and requirements definitions. Experienced leading teams and improving processes.
