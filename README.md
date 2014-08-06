@@ -22,6 +22,8 @@ Programming in HTML5 with JavaScript and CSS3 (70-480)
 *	[Stack Overflow](http://stackoverflow.com/users/223887/rusty-divine)
 *	[Delicious](https://delicious.com/osmyn)
 
+Presenter at Nebraska Code Camp (2014) and Heartland Developer's Conference (2014)
+
 #Experience
 
 ##Senior Software Developer
@@ -30,22 +32,29 @@ Programming in HTML5 with JavaScript and CSS3 (70-480)
 
 **Environment:** Agile, TDD, C#, MVC, EF, SQL, jQuery, HTML5, CSS3, JS, Web API
 
-Team member and technical lead of a nine-member team working on migrating a mainframe system that manages financial planning and transactions for road projects to a web-based MVC-style application.
+Technical lead of an eight-member team working on migrating a mainframe system that manages financial planning and transactions for road projects to a web-based MVC application.
 
-Led the team in a six-week, two-iteration effort to analyze the gaps between the mainframe and web systems and to plan for moving the web system into production and simultaneously deactivating the analogous programs on the mainframe system.
+Participate in each iteration's planning and programming by taking on user stories, tasking them out, implementing, and sending them out for code review. 
 
-Participate in each iteration planning and programming by taking on user stories, tasking them out, implementing, and sending them out for code review.
+Act as a business analyst during weekly meetings with the customer to clarify requirements and review designs and assisted in drafting of the project charter.
 
-Responsible as technical lead for ensuring team is performing code reviews and unit test coverage is sufficient, helping keep each iteration on schedule for moving through QA and to production, finding and sharing ways the team can be more efficient and learn from each other, attending meetings with the business team who use the software, and participating in and moderating design discussions and direction.
+Assisted in interviewing and hiring decisions for two team members.
 
 Improvements introduced to team include:
+
+- Proposed a restructuring of our iteration that the team adopted and that helped better emphasize burn down, team collaboration, and promote time for professional development.
+
+- Improved our build environments through a re-design that eliminated bottle-necks and separated concerns for .Net developers, DBAs, QA, and COBOL developers.
+
+- Led business analysis in a six-week, two-iteration effort to analyze the gaps between the mainframe and web systems and to plan for moving the web system into production and simultaneously deactivating the analogous programs on the mainframe system.
+
 - Significant efficiency improvements to design meetings with end users including agendas and meeting notes with links to user stories created during discussions.
 
-- Iteration calendar to provide a checklist for moving through process to QA and production.
+- Develop and lead weekly 2-hour training sessions for team members to explore new technologies and environments (e.g., Azure, AngularJS) or practice skills (e.g., Business Analysis, Unit Testing).
 
-- Spreadsheet tool to help track hours daily in TFS and helping explain the importance to the team.
+- Bring a fun attitude that promotes an environment of camaraderie and trust which helps us critically look at our processes and continually improve while respecting each others' opinions.
 
-- Design and lead weekly 2-hour training sessions for team members to explore new technologies and environments (e.g., Azure) or practice skills (e.g., Business Analysis, Unit Testing).
+- Create various team documentation and guidelines (code review, unit testing, environment setup) that help new team members get up to speed quickly.
 
 ##Senior Software Developer
 ###Five Nines Technology Group
